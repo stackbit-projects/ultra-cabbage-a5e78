@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:title'
       value: Juan Lee's Home
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: 'Small step forward, whatever it is to.'
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
