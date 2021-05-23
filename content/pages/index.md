@@ -101,7 +101,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Juan Lee's Home
+      value: Juan Lee
     - name: 'twitter:description'
       value: 'Small step forward, whatever it is to.'
     - name: 'twitter:image'
