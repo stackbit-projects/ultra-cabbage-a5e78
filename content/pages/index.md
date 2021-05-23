@@ -89,7 +89,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Juan Lee's Home
+      value: Juan Lee
       keyName: property
     - name: 'og:description'
       value: 'Small step forward, whatever it is to.'
