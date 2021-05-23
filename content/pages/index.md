@@ -92,7 +92,7 @@ seo:
       value: Juan Lee's Home
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: 'Small step forward, whatever it is to.'
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
