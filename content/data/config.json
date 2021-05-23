@@ -51,13 +51,6 @@
                 "new_window": true
             },
             {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon": "linkedin",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
                 "url": "https;//github.com/sleepy-juan",
                 "style": "icon",
