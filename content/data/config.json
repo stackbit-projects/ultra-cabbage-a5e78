@@ -60,7 +60,7 @@
             {
                 "label": "GitHub",
                 "url": "https;//github.com/sleepy-juan",
-                "style": "link",
+                "style": "icon",
                 "icon": "github",
                 "new_window": false,
                 "no_follow": false,
