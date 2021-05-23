@@ -73,5 +73,6 @@
             }
         ]
     },
-    "domain": "https://sleepy-juan.github.io/"
+    "domain": "https://sleepy-juan.github.io/",
+    "favicon": "/images/favicon.png"
 }
