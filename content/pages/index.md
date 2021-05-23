@@ -82,7 +82,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: Juan Lee's Home
+  title: Juan Lee
   description: 'Small step forward, whatever it is to.'
   extra:
     - name: 'og:type'
