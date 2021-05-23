@@ -1,6 +1,6 @@
 ---
 title: About
-subtitle: This is a short page about us and our work.
+subtitle: '안녕하세요. 이주안입니다 :)'
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
