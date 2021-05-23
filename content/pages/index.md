@@ -83,7 +83,7 @@ sections:
         style: button
 seo:
   title: Juan Lee's Home
-  description: The preview of the Exto theme
+  description: 'Small step forward, whatever it is to.'
   extra:
     - name: 'og:type'
       value: website
